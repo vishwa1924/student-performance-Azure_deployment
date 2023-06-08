@@ -3,6 +3,7 @@
 
 
 ## Run from terminal:
+welcome
 
 docker build -t studentperf.azurecr.io/perfcheck:latest .
 
